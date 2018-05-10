@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1525024675 source:/home/martin/Projects/cpp/ReadUTF8File/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1525941145 source:/home/martin/Projects/cpp/Hex/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"buffer.h"
+
+1525962112 source:/home/martin/Projects/cpp/Hex/buffer.c
+	"buffer.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+
+1525942303 /home/martin/Projects/cpp/Hex/buffer.h
+
